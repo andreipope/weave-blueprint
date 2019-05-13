@@ -1,3 +1,8 @@
+# Deprecated Repository
+
+This repository is **deprecated and no longer maintained**. Head over to the [Loom SDK](https://loomx.io/developers/docs/en/prereqs.html) page for the latest info.
+
+
 # weave-blueprint [![Build Status](https://travis-ci.org/loomnetwork/weave-blueprint.svg?branch=master)](https://travis-ci.org/loomnetwork/weave-blueprint)
 
 Sample Loom Blockchain project *GO Language*
