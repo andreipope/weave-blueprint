@@ -1,7 +1,7 @@
 # Deprecated Repository
 
-This repository is **deprecated and no longer maintained**. Head over to the [Loom SDK](https://loomx.io/developers/docs/en/prereqs.html) page for the latest info.
-
+This repository is **deprecated and no longer maintained**. Head over to
+[this page](https://loomx.io/developers/docs/en/join-testnet.html) to find out how you can join the Loom PlasmaChain Testnet.
 
 # weave-blueprint [![Build Status](https://travis-ci.org/loomnetwork/weave-blueprint.svg?branch=master)](https://travis-ci.org/loomnetwork/weave-blueprint)
 
